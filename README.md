@@ -2,7 +2,7 @@
 Spring boot using different types of database connections: 
 
 <b>h2</b>: 
-Embedded database which also is set up to use Flyway.
+Embedded database which also is set up to use Flyway. This is the default database Spring Boot uses out of the box.
 
 <b>mysql</b>: 
 Connects with user created in MySQL called 'dev' whom requires no password. Tested on MySQL version 5.7.19.
