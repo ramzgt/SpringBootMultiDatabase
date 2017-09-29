@@ -1,5 +1,5 @@
 # SpringBootMultiDatabase
-Spring boot using different types of database connections: 
+Spring boot projects for development purposes using different types of database connections: 
 
 <b>h2</b>: 
 Embedded database which also is set up to use Flyway. This is the default database Spring Boot uses out of the box.
